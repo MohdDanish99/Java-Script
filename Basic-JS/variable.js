@@ -10,3 +10,4 @@ accountCity="jaipur"  // we are declayer the any value without the given anytype
 
  console.log(accountId);//if you went to the single value to print 
  console.table([accountId,accountEmail,accountName,accountCity]) //if you went to the table of the data then you used this variable
+
