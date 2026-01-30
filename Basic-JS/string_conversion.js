@@ -32,7 +32,7 @@
   non-primitive datatype: array,object,function.
 */
 
-// ##################### Memri type ######################
+// ##################### Memory type ######################
 
 // stack(primitive)  Heap(non-primitive)
 
